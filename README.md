@@ -1,0 +1,6 @@
+- 👋 Hi,I am Lucy at Meituan, seeking top talents to collaborate on our cutting-edge large language and multimodal model.
+- 🌱 I’m currently hiring...
+- LLM Research Scientist/Engineer ( Pretraining/Alignment/ Code&Math/ Multimodal)
+- 📫 How to reach me ...
+- Email:shiying_1228@126.com
+- Wechat:wxidhuayangnianhua
